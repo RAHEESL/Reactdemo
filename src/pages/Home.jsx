@@ -10,7 +10,7 @@ const Home = () => {
                 <div class="image">
                     <img src={image} />
                 </div>
-                <div className="aa">Spotyfy</div>
+                <div className="aa">Spotify</div>
                 <div class="a">Premium</div>
                 <div class="b">Help</div>
                 <div class="c">Download</div>
